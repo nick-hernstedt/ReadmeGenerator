@@ -1,16 +1,17 @@
-# ReadmeGenerator# readme generator 	/appveyor/build/:user/:repo 
+# README Generator /azure-devops/coverage/:organization/:project/:definitionId 
  # undefined 
  # Table of Contents 
- ###  
+ ### No table of contents for this README 
  # Instructions 
- ### undefined n # Usage 
- ### asdlkfjsdf 
+ ### undefined 
+ # Usage 
+ ### To generate README's for a users Github repository 
  # Licensing 
  ### undefined 
  # Contributors 
- ### sdkljsdfjkl 
+ ### Nick Hernstedt 
  # Testing Methods 
- ### sdljksdklj 
+ ### none 
  # Email 
  ### null 
  ![profile image](https://avatars1.githubusercontent.com/u/57119635?v=4)/n
