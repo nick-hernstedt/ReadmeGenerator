@@ -1,13 +1,13 @@
-# README Generator /azure-devops/coverage/:organization/:project/:definitionId 
- # undefined 
+# README Generator ![badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) 
+ # a node application that will allow the user to generate readme files for github 
  # Table of Contents 
- ### No table of contents for this README 
- # Instructions 
- ### undefined 
+ ### Title, description, installation 
+ # Installation 
+ ### download the index.js page from github 
  # Usage 
- ### To generate README's for a users Github repository 
+ ### to create README files for github 
  # Licensing 
- ### undefined 
+ ### MIT 
  # Contributors 
  ### Nick Hernstedt 
  # Testing Methods 
